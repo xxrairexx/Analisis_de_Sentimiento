@@ -1,8 +1,9 @@
 # Proyecto de IA: Análisis de Sentimiento
 
-![Banner del proyecto](assets/banner.png)
+![Banner del proyecto](img/Banner%proyecto.png)
 
-**Autores:** Nombres y apellidos, Nombres y apellidos
+**Autores:**Jaider Julian Quintero Rosas, Juan Jose Vides Garces
+
 
 **Objetivo:** Clasificar el sentimiento de textos en categorías (p. ej., positivo, negativo y neutral) usando técnicas de aprendizaje automático.
 
