@@ -1,5 +1,6 @@
 # Proyecto de IA: Análisis de Sentimiento
 
+
 <img src="https://raw.githubusercontent.com/xxrairexx/Analisis_de_Sentimiento/78d8bca36c78d784f39bb1bb29d14b5c8b09ab02/img/Banner%20proyecto.png" width="800" height="300">
 
 **Autores:** Jaider Julian Quintero Rosas, Juan Jose Vides Garces
