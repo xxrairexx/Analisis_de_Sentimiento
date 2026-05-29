@@ -18,7 +18,7 @@
 - *Multinomial Naive Bayes* (~7 segundos)
 - *Decision Tree* (~48 minutos)
 - *Random Forest* (~22 minutos)
-- *Support Vector Machine* (SVM) (~9 minutos)
+- *Support Vector Machine* (LinearSVC) (~9 minutos)
 
 ## Enlaces
 - **Código (Colab):** https://colab.research.google.com/drive/19z2wEnSbDKmsbANFHF413xLLwCNj8KUd?usp=sharing
