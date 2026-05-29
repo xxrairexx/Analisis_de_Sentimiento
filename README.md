@@ -21,7 +21,7 @@
 - *Support Vector Machine* (LinearSVC) (~9 minutos)
 
 ## Enlaces
-- **Código (Colab):** https://colab.research.google.com/drive/19z2wEnSbDKmsbANFHF413xLLwCNj8KUd?usp=sharing
+- **Código (Gppgle Colab):** https://colab.research.google.com/drive/19z2wEnSbDKmsbANFHF413xLLwCNj8KUd?usp=sharing
 - **Video:** (Agregar enlace) https://...
 - **Repositorio:** https://github.com/xxrairexx/Analisis_de_Sentimiento
 - **Gráfica comparativa final:** https://colab.research.google.com/drive/19z2wEnSbDKmsbANFHF413xLLwCNj8KUd?usp=sharing
