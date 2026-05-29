@@ -1,4 +1,3 @@
-
 # Proyecto de IA: Análisis de Sentimiento
 
 ![Banner del proyecto](https://github.com/xxrairexx/Analisis_de_Sentimiento/blob/main/img/Banner%20proyecto.png)
@@ -9,7 +8,6 @@
 Clasificar reseñas según el número de estrellas (1 a 5 estrellas) utilizando diversas técnicas de Machine Learning.
 
 ## Dataset
-<<<<<<< ours
 - **Nombre:** Yelp Review Full
 - **Descripción:** 650,000 registros con reseñas de Yelp etiquetadas por calificación (estrellas).
 - **Descarga:** https://huggingface.co/datasets/Yelp/yelp_review_full
