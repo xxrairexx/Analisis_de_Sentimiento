@@ -8,7 +8,7 @@
 
 ## Dataset
 - **Nombre:** Yelp Review Full (`yelp_review_full`)
-- **Descripción:** 650,000 reseñas de Yelp etiquetadas por calificación (estrellas).
+- **Descripción:** 650,000 registros con reseñas de Yelp etiquetadas por calificación (estrellas).
 - **Descarga:** https://huggingface.co/datasets/Yelp/yelp_review_full
 
 ## Modelos (palabras clave)
