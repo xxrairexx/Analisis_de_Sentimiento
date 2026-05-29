@@ -12,9 +12,9 @@
 - **Descarga:** (Agregar enlace) https://...
 
 ## Modelos
-`NLP`, `Limpieza de texto`, `Tokenización`, `TF-IDF`, `Word Embeddings`, `Naive Bayes`, `SVM`, `Regresión Logística`, `LSTM`, `BERT`
+`Multinomial Naive Bayes`, `Decision Tree`, `Random Forest`, `SVM (LinearSVC)`, `DNN`
 
 ## Enlaces
-- **Código:** (Agregar enlace) https://github.com/xxrairexx/Analisis_de_Sentimiento
+- **Código:** [Notebook en Google Colab](https://colab.research.google.com/drive/19z2wEnSbDKmsbANFHF413xLLwCNj8KUd?usp=sharing)
 - **Video:** (Agregar enlace) https://...
 - **Repositorio:** https://github.com/xxrairexx/Analisis_de_Sentimiento
