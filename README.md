@@ -23,6 +23,6 @@
 
 ## Enlaces
 - **Código (Colab):** https://colab.research.google.com/drive/19z2wEnSbDKmsbANFHF413xLLwCNj8KUd?usp=sharing
-- **Video:** https://youtu.be/wRJKbxW9giY
+- **Video:** https://youtu.be/TtqC2BJaxMw
 - **Repositorio:** https://github.com/xxrairexx/Analisis_de_Sentimiento
 - **Slides** https://canva.link/rft4pm3wo2h6a2u
